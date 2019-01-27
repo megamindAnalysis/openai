@@ -1,2 +1,7 @@
 # openai
-Various Open AI Environments 
+Open AI Environments:
+  1) LunarLander-v2
+    - code
+    - walkthru
+    
+    
